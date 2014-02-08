@@ -7,7 +7,23 @@ namespace TestGitHub
 {
     public class Class1
     {
-        
+        private string TestFun1()
+        {
+            //LiQiang add on 2014-02-08
+            return "Hello.";
+        }
+
+        private int TestFun2()
+        {
+            //LiQiang add on 2014-02-08
+            return 100;
+        }
+
+        private string TestFun3()
+        {
+            return "";
+        }
+
         private string TestFun5()
         {
             //shiwei add
