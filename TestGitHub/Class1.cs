@@ -28,6 +28,7 @@ namespace TestGitHub
         private string TestFun5()
         {
             //shiwei add
+            //LiQiang Modify
             return "Hello5.";
         }
     }
