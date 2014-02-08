@@ -18,5 +18,10 @@ namespace TestGitHub
             //LiQiang add on 2014-02-08
             return 100;
         }
+
+        private string TestFun3()
+        {
+            return "";
+        }
     }
 }
