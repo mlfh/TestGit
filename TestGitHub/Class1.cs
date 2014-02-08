@@ -11,5 +11,10 @@ namespace TestGitHub
         {
             return "Hello.";
         }
+
+        private string TestFun2()
+        {
+            return "Hello2.";
+        }
     }
 }
