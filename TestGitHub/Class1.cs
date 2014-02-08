@@ -7,16 +7,8 @@ namespace TestGitHub
 {
     public class Class1
     {
-        private string TestFun1()
-        {
-            return "Hello.";
-        }
-
-        private string TestFun2()
-        {
-            return "Hello2.";
-        }
-        private string TestFun3()
+        
+        private string TestFun5()
         {
             return "Hello3.";
         }
