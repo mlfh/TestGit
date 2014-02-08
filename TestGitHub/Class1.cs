@@ -9,7 +9,14 @@ namespace TestGitHub
     {
         private string TestFun1()
         {
+            //LiQiang add on 2014-02-08
             return "Hello.";
+        }
+
+        private int TestFun2()
+        {
+            //LiQiang add on 2014-02-08
+            return 100;
         }
     }
 }
