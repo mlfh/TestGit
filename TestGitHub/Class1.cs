@@ -13,8 +13,6 @@ namespace TestGitHub
             return "Hello.";
         }
 
-
-
         private int TestFun2()
         {
             //LiQiang add on 2014-02-08
@@ -29,7 +27,7 @@ namespace TestGitHub
         private string TestFun5()
         {
             //shiwei add
-            return "Hello3.";
+            return "Hello5.";
         }
     }
 }
