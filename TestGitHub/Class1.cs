@@ -10,6 +10,7 @@ namespace TestGitHub
         
         private string TestFun5()
         {
+            //shiwei add
             return "Hello3.";
         }
     }
