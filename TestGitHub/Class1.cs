@@ -31,5 +31,11 @@ namespace TestGitHub
             //LiQiang Modify
             return "Hello5.";
         }
+
+        public void TestFun6()
+        {
+            //LiQiang Add
+            int a = 0;
+        }
     }
 }
