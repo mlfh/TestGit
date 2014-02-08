@@ -21,7 +21,8 @@ namespace TestGitHub
 
         private string TestFun3()
         {
-            return "";
+            //liqiang modify
+            return "1243";
         }
 
         private string TestFun5()
