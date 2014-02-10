@@ -37,5 +37,11 @@ namespace TestGitHub
             //LiQiang Add
             int a = 0;
         }
+
+        private decimal TestFun7()
+        {
+            //liqiang add 02/10/2014
+            return (decimal)1.234;
+        }
     }
 }
