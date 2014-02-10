@@ -47,7 +47,9 @@ namespace TestGitHub
         protected string TestMethod1()
         {
             //liqiang add 2014-02/10
-            return string.Empty;
+            //return string.Empty;
+            return "haha";
         }
+
     }
 }
