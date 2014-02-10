@@ -43,5 +43,11 @@ namespace TestGitHub
             //liqiang add 02/10/2014
             return (decimal)1.234;
         }
+
+        protected string TestMethod1()
+        {
+            //liqiang add 2014-02/10
+            return string.Empty;
+        }
     }
 }
