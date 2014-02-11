@@ -23,5 +23,10 @@ namespace TestGitHub
             var intNum2 = 4;
             var intNum3 = intNum1 + intNum2;
         }
+
+        private int Class2TestFun4()
+        {
+            return 100;
+        }
     }
 }
