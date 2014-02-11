@@ -11,5 +11,10 @@ namespace TestGitHub
         {
             return string.Empty;
         }
+
+        private int Class2TestFun2()
+        {
+            return 1231;
+        }
     }
 }
