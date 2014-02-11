@@ -5,16 +5,11 @@ using System.Text;
 
 namespace TestGitHub
 {
-    public class Class2
+    public class Class3
     {
-        protected string Class2TestFun1()
+        protected string Class3TestFun1()
         {
-            return string.Empty;
-        }
-
-        private int Class2TestFun2()
-        {
-            return 1231;
-        }
+            return "Hello. ";
+        } 
     }
 }
