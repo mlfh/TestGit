@@ -16,5 +16,11 @@ namespace TestGitHub
         {
             return 12345;
         }
+
+        protected string Class3TestFun3()
+        {
+            return null;
+        }
+
     }
 }
