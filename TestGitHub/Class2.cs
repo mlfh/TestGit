@@ -10,6 +10,11 @@ namespace TestGitHub
         protected string Class3TestFun1()
         {
             return "Hello. ";
-        } 
+        }
+
+        private int Class3TestFun2()
+        {
+            return 12345;
+        }
     }
 }
