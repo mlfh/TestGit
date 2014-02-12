@@ -48,7 +48,7 @@ namespace TestGitHub
         {
             //liqiang add 2014-02/10
             //return string.Empty;
-            return "haha";
+            return "haha123";
         }
         protected string shiwei()
         {
