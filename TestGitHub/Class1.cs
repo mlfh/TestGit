@@ -50,6 +50,12 @@ namespace TestGitHub
             //return string.Empty;
             return "haha";
         }
+        protected string shiwei()
+        {
+            //shiwei add 2014-02/12
+            //return string.Empty;
+            return "qq";
+        }
 
     }
 }
