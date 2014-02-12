@@ -21,6 +21,9 @@ namespace TestGitHub
         {
             return null;
         }
-
+        protected string TestShiWei()
+        {
+            return "123";
+        }
     }
 }
